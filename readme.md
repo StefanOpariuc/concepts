@@ -1,4 +1,4 @@
-# 💭 Concepts around building software
+# Concepts 💭 around building software
 
 A living collection of concepts, techniques, tools and frameworks on developing software.
 
@@ -13,7 +13,7 @@ A living collection of concepts, techniques, tools and frameworks on developing 
 - [[software-development]]
 - [[software-engineering]]
 
-Stats: 160 files with 369 links between them.
+Stats: 162 files with 384 links between them.
 
 ## How to use it
 
